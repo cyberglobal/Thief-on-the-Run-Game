@@ -16,10 +16,6 @@ A small Java platformer built with the City teaching physics engine (wrapper ove
 
 > You have **3 lives** in every level.
 
-## Demo video
-Watch the gameplay here:  
-
-
 ## Tech stack
 - **Java 17**
 - **CityEngine** (City University teaching library, wrapper over **JBox2D**)
