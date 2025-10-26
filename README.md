@@ -22,4 +22,6 @@ A small Java platformer built with the City teaching physics engine (wrapper ove
 - Simple sprite assets in `data/`
 
 ## Notes
-This project was developed as coursework at City, University of London. It is provided for viewing only.
+This project was developed as coursework, it is provided for viewing only.
+This gameplay video includes assets used for educational purposes. The original image files are not distributed in this repository due to copyright restrictions.
+
